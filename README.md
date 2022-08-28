@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The link to the website using Heroku cloud services_ https://gpt-3-react.herokuapp.com/
 
 ## Available Scripts
 
